@@ -142,7 +142,7 @@ if __name__ == '__main__':
     # Save
     if save_output == "True":
         joined_df.write.csv(output_filename, mode='overwrite', header=True)
-    # # Calculate and print statistics
+    # Calculate and print statistics
     calculate_statistics(joined_df)
     
     

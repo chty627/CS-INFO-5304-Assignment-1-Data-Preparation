@@ -105,6 +105,8 @@ spark-submit p1.py brfss_input.json nhis_input.csv no
 
 ## Question 2: Dealing with messy and missing data (40 points)
 
+
+
 ## Question 3: Outlier Detection (10 points)
 
 ## Question 4: Data Visualization (10 points)
